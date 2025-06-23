@@ -19,3 +19,6 @@
 [submodule "sem3/concurrent-programming"]
 	path = sem3/concurrent-programming
 	url = https://github.com/MrD4rkne/concurrent-programming
+[submodule "sem3/ads"]
+	path = sem3/ads
+	url = https://github.com/MrD4rkne/ads
