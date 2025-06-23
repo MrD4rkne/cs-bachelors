@@ -12,15 +12,13 @@ This might sound boring, but working together with peers has significantly impro
 ### Computer Architecture
 
 In my 2nd semester, I attended a Computer Architecture course that really stuck with me and I absolutely loved it.
-More here: (link)
+More here: [here](https://github.com/MrD4rkne/CAOS)
 
 ### Concurrent programming
 
 It was just a glimpse of concurrent programming, and I would love to learn more about it (looking forward to diving deeper).
-You can see my projects here:
 
-I've learned about theoretical problems in multithreading, synchronous and asynchronous communication between hosts. More here:
-(link)
+I've learned about theoretical problems in multithreading, synchronous and asynchronous communication between hosts. More [here](https://github.com/MrD4rkne/concurrent-programming)
 
 ## Program
 
