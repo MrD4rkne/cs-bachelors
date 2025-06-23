@@ -55,7 +55,7 @@ I've learned about theoretical problems in multithreading, synchronous and async
 
 ### Semester 4
 
-- [Web application course](https://github.com/MrD4rkne/www-webapp)
+- [Web application course](https://github.com/MrD4rkne/www)
 - Computer networks
 - Introduction into machine learning
     - basic concepts of all machine learning concepts, including deep neural networks
