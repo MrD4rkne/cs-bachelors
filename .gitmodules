@@ -1,0 +1,15 @@
+[submodule "sem1/WDP"]
+	path = sem1/WDP
+	url = https://github.com/witek-formanski/WDP
+[submodule "sem2/OOP"]
+	path = sem2/OOP
+	url = https://github.com/MrD4rkne/OOP
+[submodule "sem2/CAOS"]
+	path = sem2/CAOS
+	url = https://github.com/MrD4rkne/CAOS
+[submodule "sem4/awww"]
+	path = sem4/awww
+	url = https://github.com/MrD4rkne/www
+[submodule "sem4/laac"]
+	path = sem4/laac
+	url = https://github.com/MrD4rkne/laac

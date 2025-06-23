@@ -1,51 +1,63 @@
-# Computer Science - bachelors' studies
+# Computer Science - Bachelor's Studies
 
-In this repository I've collected most of my work from my college.
-I've started attending in October 2023, Expecting graduation in June/July 2026.
+In this repository, I've collected most of my work from college.
+I started attending in October 2023 and expect to graduate in June/July 2026.
 
-## What is the most important what I've learnt?
+## What Have I Learned That's Most Important?
 
-### Team-work
+### Teamwork
 
-Sounds boring, but together with peers we've worked together which grew my communicating skills. I am not talking about cheating but creeating tests for assigments which were assigned to us. We've managed to learn together for long hours, which i am totally grateful for
+This might sound boring, but working together with peers has significantly improved my communication skills. I'm not talking about cheating, but rather creating tests for assignments that were given to us. We've managed to study together for long hours, which I am totally grateful for.
 
 ### Computer Architecture
 
-In my 2nd semester I've attended Computer Architecture course that stuck in my mind and i've loved it.
+In my 2nd semester, I attended a Computer Architecture course that really stuck with me and I absolutely loved it.
 More here: (link)
 
-### distributed programming
+### Distributed Programming
 
-It was just an glipse of distributed programming and I would love it to be able to learn more (and I am looking forward to it).
+It was just a glimpse of distributed programming, and I would love to learn more about it (looking forward to diving deeper).
 You can see my projects here:
 
-I've learn the theorical problems in multithreading, sycnhrponous and asynchronous communication between hosts. More here:
+I've learned about theoretical problems in multithreading, synchronous and asynchronous communication between hosts. More here:
 (link)
 
 ## Program
 
 ### Semester 1
 
-- Introduction into programming - basics of algorithms, like DP.
-    - in process we've solved many tasks, you can see it here: [link]
+- Introduction to programming - basics of algorithms, like DP
+    - In the process, we've solved many tasks, you can our work [here](./sem1/WDP/)
 - Calculus 1
-- Geomtry with linear algebra
-- Foundation of mathematics
+- Geometry with linear algebra
+- Foundations of mathematics
 
 ### Semester 2
 
-- Objective programming
-- Computer Architecture
+- [Object-oriented programming](./sem2/OOP/)
+- [Computer Architecture](/sem2/CAOS/)
 - Discrete mathematics
 - Calculus 2
 
 ### Semester 3
 
-- CPP couse
-    - I've learn a lot of about c++, like metaprogramming iwth templates, working with C libraries, modules, funcitonal parigmat, objective parigmat,
-- distributed programming
-- Algoritms and data structures
-    - sorting, graph algorithms, a lot of conceptual algoritm stuff
-- Databses
-    - basics of sql,desiging db
+- C++ course
+    - Gained in-depth experience with C++, including:
+        - Metaprogramming with templates
+        - Integrating C libraries
+        - Using modules
+        - Applying both functional and object-oriented paradigms
+    - Completed 7 projects (5 in collaboration, which cannot be shared)
+- Distributed programming
+- Algorithms and data structures
+    - Sorting, graph algorithms, a lot of conceptual algorithm stuff
+- Databases
+    - Basics of SQL, designing databases
 
+### Semester 4
+
+- [Web application course](./sem4/awww/)
+- Computer networks
+- Introduction into machine learning
+    - basic concepts of all machine learning concepts, including deep neural networks
+- [Languages, automata and computations - languages](./sem4/laac/), classes of problems like P/NP
