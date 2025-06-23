@@ -14,9 +14,9 @@ This might sound boring, but working together with peers has significantly impro
 In my 2nd semester, I attended a Computer Architecture course that really stuck with me and I absolutely loved it.
 More here: (link)
 
-### Distributed Programming
+### Concurrent programming
 
-It was just a glimpse of distributed programming, and I would love to learn more about it (looking forward to diving deeper).
+It was just a glimpse of concurrent programming, and I would love to learn more about it (looking forward to diving deeper).
 You can see my projects here:
 
 I've learned about theoretical problems in multithreading, synchronous and asynchronous communication between hosts. More here:
@@ -27,15 +27,15 @@ I've learned about theoretical problems in multithreading, synchronous and async
 ### Semester 1
 
 - Introduction to programming - basics of algorithms, like DP
-    - In the process, we've solved many tasks, you can our work [here](./sem1/WDP/)
+    - In the process, we've solved many tasks, you can our work [here](https://github.com/witek-formanski/WDP)
 - Calculus 1
 - Geometry with linear algebra
 - Foundations of mathematics
 
 ### Semester 2
 
-- [Object-oriented programming](./sem2/OOP/)
-- [Computer Architecture](/sem2/CAOS/)
+- [Object-oriented programming](https://github.com/MrD4rkne/OOP)
+- [Computer Architecture](https://github.com/MrD4rkne/CAOS)
 - Discrete mathematics
 - Calculus 2
 
@@ -48,16 +48,17 @@ I've learned about theoretical problems in multithreading, synchronous and async
         - Using modules
         - Applying both functional and object-oriented paradigms
     - Completed 7 projects (5 in collaboration, which cannot be shared)
-- Distributed programming
+- [Concurrent programming](https://github.com/MrD4rkne/concurrent-programming)
 - Algorithms and data structures
     - Sorting, graph algorithms, a lot of conceptual algorithm stuff
 - Databases
     - Basics of SQL, designing databases
+- [Probability theory](https://github.com/MrD4rkne/probability-note)
 
 ### Semester 4
 
-- [Web application course](./sem4/awww/)
+- [Web application course](https://github.com/MrD4rkne/www-webapp)
 - Computer networks
 - Introduction into machine learning
     - basic concepts of all machine learning concepts, including deep neural networks
-- [Languages, automata and computations - languages](./sem4/laac/), classes of problems like P/NP
+- [Languages, automata and computations - languages](https://github.com/MrD4rkne/laac), classes of problems like P/NP

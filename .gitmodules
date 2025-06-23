@@ -13,3 +13,9 @@
 [submodule "sem4/laac"]
 	path = sem4/laac
 	url = https://github.com/MrD4rkne/laac
+[submodule "sem3/rp"]
+	path = sem3/rp
+	url = https://github.com/MrD4rkne/probability-note
+[submodule "sem3/concurrent-programming"]
+	path = sem3/concurrent-programming
+	url = https://github.com/MrD4rkne/concurrent-programming
