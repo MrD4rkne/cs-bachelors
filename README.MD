@@ -49,7 +49,7 @@ I've learned about theoretical problems in multithreading, synchronous and async
         - Applying both functional and object-oriented paradigms
     - Completed 7 projects (5 in collaboration, which cannot be shared)
 - [Concurrent programming](https://github.com/MrD4rkne/concurrent-programming)
-- Algorithms and data structures
+- [Algorithms and data structures](https://github.com/MrD4rkne/ads)
     - Sorting, graph algorithms, a lot of conceptual algorithm stuff
 - Databases
     - Basics of SQL, designing databases
