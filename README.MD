@@ -60,3 +60,6 @@ I've learned about theoretical problems in multithreading, synchronous and async
 - Introduction into machine learning
     - basic concepts of all machine learning concepts, including deep neural networks
 - [Languages, automata and computations - languages](https://github.com/MrD4rkne/laac), classes of problems like P/NP
+- Software engineering
+    - learnt mutliple concepts of designing, implementing and collaborating on software
+    - contributed to [Url shortener](https://urls.ciuw.pl/), f.e. I've implemented [this endpoint](https://urls-api.ciuw.pl/swagger-ui/index.html#/Links/getCurrentUserLinksSummary)
